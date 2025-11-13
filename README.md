@@ -19,5 +19,5 @@ OxygenOS 本地化补全模块
 - 使用OxygenOS 16及以上版本 (目前仅计划向下适配至 OxygenOS 15，如有其他需求请通过issues反馈)
 
 ## 感谢
-- ![酷安@天伞桜](http://www.coolapk.com/u/540690) 的原模块补全思路
-- ![Magisk](https://github.com/topjohnwu/Magisk/) 的模块支持
+- [酷安@天伞桜](http://www.coolapk.com/u/540690) 的原模块补全思路
+- [Magisk](https://github.com/topjohnwu/Magisk/) 的模块支持
