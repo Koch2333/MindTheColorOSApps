@@ -15,8 +15,8 @@ OxygenOS 本地化补全模块
 **注: 此为Lite版基本功能，完整版(full)将包含以上所有功能并集成更多应用**
 
 ## 处理中
-- [] 钱包app无法添加门禁卡
-- [] OnePlus AI 本地化功能
+- [ ] 钱包app无法添加门禁卡
+- [ ] OnePlus AI 本地化功能
 
 ## 使用要求
 - 一台已解锁 Bootloader (引导加载程序) 并运行 OxygenOS 的一加设备
