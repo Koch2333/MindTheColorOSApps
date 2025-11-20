@@ -1,7 +1,7 @@
 # MindTheColorOSApps
 OxygenOS 本地化补全模块
 
-**提示：目前已release第一个Lite版，完整版适配仍需要时间（原模块还修改了my_region，视情况而言可能需要与原作者联系决定是否同步添加），预计将会与211版本一同发布release**
+**提示：目前已release第一个Lite版，完整版适配仍需要时间，预计将会与下一个release同步发布**
 
 一个用于给 OxygenOS 补齐 ColorOS 本地化功能的模块，并同时支持多款一加设备。
 
@@ -14,8 +14,9 @@ OxygenOS 本地化补全模块
 
 **注: 此为Lite版基本功能，完整版(full)将包含以上所有功能并集成更多应用**
 
-## 待解决问题
-- 钱包app无法添加门禁卡
+## 处理中
+- [] 钱包app无法添加门禁卡
+- [] OnePlus AI 本地化功能
 
 ## 使用要求
 - 一台已解锁 Bootloader (引导加载程序) 并运行 OxygenOS 的一加设备
