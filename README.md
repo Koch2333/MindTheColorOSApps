@@ -17,6 +17,7 @@ OxygenOS 本地化补全模块
 ## 处理中
 - [ ] 钱包app无法添加门禁卡
 - [ ] OnePlus AI 本地化功能
+- [ ] action.sh 适用操作支持
 
 ## 使用要求
 - 一台已解锁 Bootloader (引导加载程序) 并运行 OxygenOS 的一加设备
