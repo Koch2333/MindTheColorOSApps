@@ -1,11 +1,12 @@
 # MindTheColorOSApps
 OxygenOS 本地化补全模块
 
-**提示：目前已release第一个Lite版，完整版适配仍需要时间，预计将会与下一个release同步发布**
+**提示：由于本人是高三牲，学业繁忙以及功能实现需要花费大量精力，故无法及时维护，还请谅解。**
 
 一个用于给 OxygenOS 补齐 ColorOS 本地化功能的模块，并同时支持多款一加设备。
 
 注意：本模块并不适用于修复一加国行机型与外版机型的硬件差异带来的驱动问题
+
 
 ## 功能
 - 公交卡/门禁卡模拟功能 (OPPO钱包)
@@ -22,6 +23,7 @@ OxygenOS 本地化补全模块
 ## 使用要求
 - 一台已解锁 Bootloader (引导加载程序) 并运行 OxygenOS 的一加设备
 - 使用支持模块系统的root方案，如Magisk或KernelSU
+**（KernelSU 3.0及以上 用户请暂缓使用本模块，在这个版本之后ksu引入了[metamodule](https://kernelsu.org/zh_CN/guide/metamodule.html)，模块挂载方式有所不同，本人还未进行测试，也需要时间对其进行适配，在此期间请使用[Magisk](https://github.com/topjohnwu/Magisk)或者支持Magic Mount的KernelSU）**
 - 使用OxygenOS 16及以上版本 (目前仅计划向下适配至 OxygenOS 15，如有其他需求请通过issues反馈)
 
 ## 感谢
