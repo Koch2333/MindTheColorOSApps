@@ -24,7 +24,7 @@ OxygenOS 本地化补全模块
 - 一台已解锁 Bootloader (引导加载程序) 并运行 OxygenOS 的一加设备
 - 使用支持模块系统的root方案，如Magisk或KernelSU
 
-**KernelSU 3.0及以上用户请使用Magic Mount的原模块，Hybrid Mount用户需要使用Magic Mount方式挂载应用本模块**
+**KernelSU 3.0及以上用户请使用Magic Mount的元模块，Hybrid Mount用户需要使用Magic Mount方式挂载应用本模块**
 - 使用OxygenOS 16及以上版本 (目前仅计划向下适配至 OxygenOS 15，如有其他需求请通过issues反馈)
 
 ## 感谢
