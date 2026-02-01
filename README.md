@@ -1,7 +1,7 @@
 # MindTheColorOSApps
 OxygenOS 本地化补全模块
 
-**提示：由于本人是高三牲，学业繁忙以及功能实现需要花费大量精力，故无法及时维护，还请谅解。**
+**2026.2.1更新 由于时间精力以及氧OS的问题已影响本人日常使用，现做出无限期停更，预计下半年更换设备后恢复更新，有机会的话将发布停更前最后一个版本（含更多本地化特性），期待社区的力量让这个模块继续维持下去。**
 
 一个用于给 OxygenOS 补齐 ColorOS 本地化功能的模块，并同时支持多款一加设备。
 
@@ -25,7 +25,7 @@ OxygenOS 本地化补全模块
 - 使用支持模块系统的root方案，如Magisk或KernelSU
 
 **KernelSU 3.0及以上用户请使用Magic Mount的元模块，Hybrid Mount用户需要使用Magic Mount方式挂载应用本模块**
-- 使用OxygenOS 16及以上版本 (目前仅计划向下适配至 OxygenOS 15，如有其他需求请通过issues反馈)
+- 使用OxygenOS 16及以上版本 (OxygenOS 15已不再维护)
 
 ## 感谢
 - [酷安@天伞桜](http://www.coolapk.com/u/540690) 的原模块补全思路
